@@ -1,0 +1,17 @@
+{
+    "accomodation": [
+      {
+        "id": 1,
+        "title": "Home Section",
+        "content": "We are here for your pleasure"
+      },
+      {
+        "id": 2,
+        "title": "Reservation section",
+        "content": "Here you can book your reservation."
+      },
+      {
+        "title": "About Section",
+        "content": "Additional details are provided here"
+      }  ]
+        }
